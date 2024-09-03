@@ -1,23 +1,20 @@
-## 👋 Ciao! Sono Stefano Antonelli
+## 👋 Hi! I’m Stefano Antonelli
 
-Sono uno sviluppatore web full-stack con una passione per la tecnologia e il design
+I’m a full-stack web developer with a passion for technology and design.
 
+## 🚀 What I Do
 
-## 🚀  Cosa Faccio
+Front-End: I build responsive and engaging user interfaces using HTML, CSS, and JavaScript, with advanced skills in frameworks and libraries like Vue.js and Vite.
 
-- Front-End: Costruisco interfacce utente reattive e accattivanti utilizzando HTML, CSS e JavaScript, con competenze avanzate in framework e librerie come Vue.js e Vite
+Back-End: I develop robust server-side systems with PHP, Laravel, Node.js, and other server-side technologies, integrating relational databases.
 
-- Back-End: Sviluppo robusti sistemi server-side con PHP, Laravel, Node.js e altre tecnologie server-side, integrando database relazionali
+## 🔧 Skills
 
-## 🔧  Competenze
+Languages and Technologies: HTML5, CSS3, JavaScript, TypeScript, Vue.js, Node.js, PHP, Laravel, Blade, MySQL, MAMP.
 
-- Linguaggi e Tecnologie: HTML5, CSS3, JavaScript, TypeScript, Vue.js, Node.js, PHP, Laravel, Blade, MySQL, MAMP
+Version Control Tools: Git, GitHub, GitLab.
 
-- Strumenti di Versionamento: Git, GitHub, GitLab
-
-## 📫  Contattami
-
-Sono sempre aperto a nuove opportunità e collaborazioni. Se vuoi discutere un progetto, fare due chiacchiere su tecnologia o semplicemente connetterti, sentiti libero di contattarmi su stefano.antonelli.2024@gmail.com o di seguirmi sui social!
+## 📫 Contact Me I’m always open to new opportunities and collaborations. If you want to discuss a project, chat about technology, or simply connect, feel free to reach out to me at stefano.antonelli.2024@gmail.com or follow me on social media!
 <!---
 StefanoAntonelli93/StefanoAntonelli93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
