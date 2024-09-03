@@ -1,4 +1,4 @@
-👋 Ciao!sono Stefano Antonelli
+👋 Ciao! sono Stefano Antonelli
 
 Sono uno sviluppatore web full-stack con una passione per la tecnologia e il design
 
