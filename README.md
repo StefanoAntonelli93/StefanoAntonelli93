@@ -11,7 +11,7 @@ Back-End: Sviluppo robusti sistemi server-side con PHP, Laravel, Node.js e altre
 
 🔧 Competenze
 
-Linguaggi e Tecnologie: HTML5, CSS3, JavaScript, TypeScript, Vue.js, Node.js
+Linguaggi e Tecnologie: HTML5, CSS3, JavaScript, TypeScript, Vue.js, Node.js, PHP, Laravel, Blade, MySQL, MAMP
 
 Strumenti di Versionamento: Git, GitHub, GitLab
 
