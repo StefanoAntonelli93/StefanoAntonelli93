@@ -17,7 +17,7 @@ Strumenti di Versionamento: Git, GitHub, GitLab
 
 📫 Contattami
 
-Sono sempre aperto a nuove opportunità e collaborazioni. Se vuoi discutere un progetto, fare due chiacchiere su tecnologia o semplicemente connetterti, sentiti libero di contattarmi via email o di seguirmi sui social!
+Sono sempre aperto a nuove opportunità e collaborazioni. Se vuoi discutere un progetto, fare due chiacchiere su tecnologia o semplicemente connetterti, sentiti libero di contattarmi su stefano.antonelli.2024@gmail.com o di seguirmi sui social!
 <!---
 StefanoAntonelli93/StefanoAntonelli93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
