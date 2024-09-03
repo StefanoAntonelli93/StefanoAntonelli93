@@ -1,16 +1,19 @@
-👋 Ciao! Sono Marco Rossi
+👋 Ciao!sono Stefano Antonelli
 
-Sono uno sviluppatore web full-stack con una passione per la tecnologia e il design. Con anni di esperienza nella progettazione e nello sviluppo di applicazioni web complete, mi specializzo nella creazione di soluzioni eleganti e funzionali che offrono un'esperienza utente eccezionale.
+Sono uno sviluppatore web full-stack con una passione per la tecnologia e il design
+
+
 🚀 Cosa Faccio
 
-    Front-End: Costruisco interfacce utente reattive e accattivanti utilizzando HTML, CSS e JavaScript, con competenze avanzate in framework e librerie come React, Vue.js e Angular.
+Front-End: Costruisco interfacce utente reattive e accattivanti utilizzando HTML, CSS e JavaScript, con competenze avanzate in framework e librerie come Vue.js e Vite
 
-    Back-End: Sviluppo robusti sistemi server-side con Node.js, Express, e altre tecnologie server-side, integrando database relazionali e NoSQL come PostgreSQL e MongoDB.
+Back-End: Sviluppo robusti sistemi server-side con PHP, Laravel, Node.js e altre tecnologie server-side, integrando database relazionali
 
 🔧 Competenze
 
-    Linguaggi e Tecnologie: HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Angular, Node.js, Express, MongoDB, PostgreSQL, GraphQL
-    Strumenti di Versionamento: Git, GitHub, GitLab
+Linguaggi e Tecnologie: HTML5, CSS3, JavaScript, TypeScript, Vue.js, Node.js
+
+Strumenti di Versionamento: Git, GitHub, GitLab
 
 📫 Contattami
 
