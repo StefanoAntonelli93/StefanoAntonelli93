@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Stefano Antonelli  
+## Hi, I’m Stefano Antonelli  
 
-💻 Full-stack web developer but now focused in **Middleware Developer**, passionate about designing scalable back-end systems, secure authentication solutions, and cloud-native architectures.  
+Full-stack web developer but now focused in **Middleware Developer**, passionate about designing scalable back-end systems, secure authentication solutions, and cloud-native architectures.  
 
-### 🔧 Tech Stack  
+### Tech Stack  
 - **Back-End:** Java (Spring Boot, Quarkus), PHP (Laravel)  
 - **Front-End:** HTML, CSS, JavaScript, Vue.js, React, Vite
 - **Middleware & Integration:** Keycloak (custom SPI providers, realm operators), Apache Kafka  
